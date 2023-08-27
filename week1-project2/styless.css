@@ -8,6 +8,9 @@
     padding-top:10px;
     padding-bottom: 10px;;
 }
+.container3{
+    margin-left: 270px;;
+}
 .card{
     align-items: center;
     margin-left: 50px;
@@ -55,11 +58,12 @@ div.row{
 
 .container5 img {
     background-color: blue;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     border-radius: 100px;
+    border-width: none;
 }
 
 .container5 button img{
@@ -71,10 +75,8 @@ div.row{
 }
 
 .container img{
-    padding-left: 100px;
-
+    padding-left: 150px;
+    }
+.p-3{
+    margin-left: 120px;
 }
-
-
-
-
